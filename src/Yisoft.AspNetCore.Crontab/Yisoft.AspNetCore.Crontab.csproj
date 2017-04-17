@@ -4,7 +4,7 @@
 		<TargetFramework>netstandard1.6</TargetFramework>
 		<Authors>ymind.chan@yi.team</Authors>
 		<AssemblyTitle>Yisoft.AspNetCore.Crontab</AssemblyTitle>
-		<VersionPrefix>1.0.0</VersionPrefix>
+		<VersionPrefix>1.1.0</VersionPrefix>
 		<Company>Yi Team</Company>
 		<Copyright>Copyright © Yi.TEAM. All rights reserved.</Copyright>
 		<PackageLicenseUrl>https://raw.githubusercontent.com/yisoft-aspnet/crontab/dev/LICENSE</PackageLicenseUrl>
