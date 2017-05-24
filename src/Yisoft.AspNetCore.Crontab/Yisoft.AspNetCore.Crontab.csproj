@@ -14,7 +14,7 @@
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/yisoft-aspnet/crontab</RepositoryUrl>
 		<Description>integrate cron task schedule for aspnetcore applications.</Description>
-		<PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+		<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
 		<PackageReleaseNotes></PackageReleaseNotes>
 		<PackageId>Yisoft.AspNetCore.Crontab</PackageId>
 		<Product>Yisoft.AspNetCore.Crontab</Product>
