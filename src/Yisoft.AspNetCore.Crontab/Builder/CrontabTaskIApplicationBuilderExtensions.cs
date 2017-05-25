@@ -22,10 +22,6 @@ namespace Microsoft.AspNetCore.Builder
 {
 	public static class CrontabTaskIApplicationBuilderExtensions
 	{
-		/// <summary>
-		/// </summary>
-		/// <param name="app"></param>
-		/// <returns></returns>
 		public static IApplicationBuilder UseCrontabTask(this IApplicationBuilder app)
 		{
 			if (app == null) throw new ArgumentNullException(nameof(app));
