@@ -4,12 +4,12 @@
 		<TargetFramework>netstandard1.6</TargetFramework>
 		<Authors>ymind.chan@yi.team</Authors>
 		<AssemblyTitle>Yisoft.AspNetCore.Crontab</AssemblyTitle>
-		<VersionPrefix>1.1.2</VersionPrefix>
+		<VersionPrefix>1.1.3</VersionPrefix>
 		<Company>Yi Team</Company>
 		<Copyright>Copyright © Yi.TEAM. All rights reserved.</Copyright>
-		<PackageLicenseUrl>https://raw.githubusercontent.com/yisoft-aspnet/crontab/dev/LICENSE</PackageLicenseUrl>
+		<PackageLicenseUrl>https://github.com/yisoft-aspnet/crontab/blob/master/LICENSE</PackageLicenseUrl>
 		<PackageProjectUrl>https://yi.team/</PackageProjectUrl>
-		<PackageIconUrl>https://yi.team/images/yiteam-logo-64x64.png</PackageIconUrl>
+		<PackageIconUrl>https://static.yi.team/images/yiteam-logo-64x64.png</PackageIconUrl>
 		<PackageTags>aspnetcore;dotnet;dotnet-core;crontab;cron;schedule;yisoft;yiteam</PackageTags>
 		<RepositoryType>git</RepositoryType>
 		<RepositoryUrl>https://github.com/yisoft-aspnet/crontab</RepositoryUrl>
@@ -26,7 +26,7 @@
 		<PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="1.1.2" />
 		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="1.1.1" />
 		<PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="1.1.2" />
-		<PackageReference Include="Yisoft.Crontab" Version="1.3.1" />
+		<PackageReference Include="Yisoft.Crontab" Version="1.3.2" />
 	</ItemGroup>
 
 </Project>
